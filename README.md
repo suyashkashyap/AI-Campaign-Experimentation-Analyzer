@@ -24,3 +24,17 @@ Example Questions the AI Assistant Can Answer:
 - Which segment performs best?
 - Is the experiment statistically significant?
 - What campaign recommendations should we follow?
+
+## Installation
+
+Clone the repository:
+
+git clone https://github.com/yourusername/AI-Campaign-Experimentation-Analyzer
+
+Install dependencies:
+
+pip install -r requirements.txt
+
+Run the notebook:
+
+jupyter notebook
